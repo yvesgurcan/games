@@ -1,4 +1,4 @@
 - [Dungeon!](https://dungeon.yvesgurcan.com/stable) ([repository](https://github.com/yvesgurcan/dungeon))
-- [DoomJS](https://doom.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/jsdoom))
+- [JSDoom](https://doom.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/jsdoom))
 - [War](https://war.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/war))
 - [ChessJS](https://chess.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/chess))
