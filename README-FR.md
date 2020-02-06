@@ -26,7 +26,7 @@ Un utilitaire pour extraire les ressources du jeu Doom. Permet de visualiser les
 
 - [War](https://war.yvesgurcan.com) ([code](https://github.com/yvesgurcan/war))
 
-Un moteur de jeu qui reproduit les mecaniques de WarCraft II. Ecrit à partir de zéro. Utilise l'API Canvas.
+Un moteur de jeu qui reproduit les mécaniques de WarCraft II. Ecrit à partir de zéro. Utilise l'API Canvas.
 
 
 - [ChessJS](https://chess.yvesgurcan.com) ([code](https://github.com/yvesgurcan/chess))
