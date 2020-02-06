@@ -12,8 +12,6 @@ permalink: /fr
 
 Vous trouverez ci-dessous une liste de projects liés à ma passion pour les jeux vidéos un peu plus ancien. La plupart de ces projets sont en pre-alpha. Vous pouvez y jouer depuis votre navigateur. Grâce à ces expériences variees, j'ai amassé beaucoup de connaissances sur les défis à relever quand il s'agit de construire un moteur de jeu depuis zéro. Vous souhaitez voir plus de projets de développement web ? Jetez un coup d'oeil à mon [profil GitHub](https://github.com/yvesgurcan) (en anglais).
 
-You'll find below various projects related to my passion for older video games. Most of the projects are in pre-alpha and can be played in your browser. Thanks to these various experiences, I gained a lot of knowledge about the challenges that come with building a game engine from scratch. Want to see more projects related to web development? Check out my [GitHub profile](https://github.com/yvesgurcan).
-
 - [Dungeon!](https://dungeon.yvesgurcan.com/stable) ([repository](https://github.com/yvesgurcan/dungeon))
 
 Un JDR old-school RPG écrit à partir de zéro avec React.
