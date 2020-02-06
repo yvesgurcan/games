@@ -1,5 +1,5 @@
 ---
-description: Projets de jeux JavaScript
+description: 🕹️ Projets de jeux JavaScript
 lang: en
 permalink: /en
 ---
