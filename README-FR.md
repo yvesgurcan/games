@@ -1,4 +1,5 @@
 ---
+title: Jeux
 description: 🕹️ Projets de jeux JavaScript
 lang: fr
 permalink: /fr
