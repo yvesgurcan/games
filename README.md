@@ -14,6 +14,6 @@ A game engine replicating WarCraft II mechanis. Written from scratch. Uses the C
 
 A mobile-first game of chess.
 
-- [Lonewolf]()https://lonewolf.yvesgurcan.com/ ([repository](https://github.com/yvesgurcan/lonewolf))
+- [Lonewolf](https://lonewolf.yvesgurcan.com/) ([repository](https://github.com/yvesgurcan/lonewolf))
 
 A utility to go along Choose Your Own Adventure books.
