@@ -1,7 +1,7 @@
 ---
 description: 🕹️ Projets de jeux JavaScript
-lang: en
-permalink: /en
+lang: fr
+permalink: /fr
 ---
 
 <span id="flag">
