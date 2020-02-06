@@ -22,7 +22,7 @@ Un moteur de jeu qui reproduit les mécaniques de Doom et Wolfenstein 3D. Ecrit 
 
 - [WadJS](https://wad.yvesgurcan.com) ([code](https://github.com/yvesgurcan/wadjs))
 
-Un utilitaire pour extraire les ressources du jeu Doom. Permet de visualiser les textures ainsi que les niveaux du jeux, de jouer des fichiers MIDI et des sons, et bien plus. Fonctionne avec d'autres jeux basés sur le moteur de jeu de Doom tels que Heretic, Hexen, Hacx, et Freedoom.
+Un utilitaire pour extraire les ressources du jeu Doom. Permet de visualiser les textures ainsi que les niveaux du jeu, de jouer des fichiers MIDI et des sons, et bien plus. Fonctionne avec d'autres jeux basés sur le moteur de jeu de Doom tels que Heretic, Hexen, Hacx, et Freedoom.
 
 - [War](https://war.yvesgurcan.com) ([code](https://github.com/yvesgurcan/war))
 
