@@ -22,6 +22,10 @@ Un JDR old-school RPG écrit à partir de zéro avec React.
 
 Un moteur de jeu qui reproduit les mecaniques de Doom et Wolfenstein 3D. Ecrit à partir de zéro. Utilise l'API Canvas.
 
+- [WadJS](https://wad.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/wadjs))
+
+Un utilitaire pour extraire les ressources du jeu Doom. Permet de visualiser les textures ainsi que les niveaux du jeux, de jouer des fichiers MIDI et des sons, et bien plus. Fonctionne avec d'autres jeux basés sur le moteur de jeu de Doom tels que Heretic, Hexen, Hacx, et Freedoom.
+
 - [War](https://war.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/war))
 
 Un moteur de jeu qui reproduit les mecaniques de WarCraft II. Ecrit à partir de zéro. Utilise l'API Canvas.
