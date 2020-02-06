@@ -1,11 +1,12 @@
 ---
+description: Projets de jeux JavaScript
 lang: en
 permalink: /en
 ---
 
 <span id="flag">
-[![french](./assets/images/french-flag.png "Click here for French version.")](./fr)
-[![english](./assets/images/us-flag.png "Click here for English version.")](./en)
+[![anglais](./assets/images/us-flag.png "Cliquez ici pour la version en anglais.")](./en)
+[![français](./assets/images/french-flag.png "Cliquez ici pour la version en français.")](./fr)
 </span>
 
 - [Dungeon!](https://dungeon.yvesgurcan.com/stable) ([repository](https://github.com/yvesgurcan/dungeon))
