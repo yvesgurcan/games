@@ -14,7 +14,7 @@ Vous trouverez ci-dessous une liste de projects liés à ma passion pour les jeu
 
 - [Dungeon!](https://dungeon.yvesgurcan.com/stable) ([code](https://github.com/yvesgurcan/dungeon))
 
-Un JDR old-school RPG écrit à partir de zéro avec React.
+Un JDR old-school écrit à partir de zéro avec React.
 
 - [JSDoom](https://doom.yvesgurcan.com) ([code](https://github.com/yvesgurcan/jsdoom))
 
