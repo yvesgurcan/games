@@ -2,3 +2,4 @@
 - [JSDoom](https://doom.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/jsdoom))
 - [War](https://war.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/war))
 - [ChessJS](https://chess.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/chess))
+- [Lonewolf]()https://lonewolf.yvesgurcan.com/ ([repository](https://github.com/yvesgurcan/lonewolf))
