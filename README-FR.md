@@ -11,20 +11,23 @@ permalink: /fr
 
 - [Dungeon!](https://dungeon.yvesgurcan.com/stable) ([repository](https://github.com/yvesgurcan/dungeon))
 
-Old-school RPG written from scratch with React.
+Un JDR old-school RPG écrit à partir de zéro avec React.
 
 - [JSDoom](https://doom.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/jsdoom))
 
-A game engine replicating Doom and Wolfenstein 3D mechanics. Written from scratch. Uses the Canvas API.
+Un moteur de jeu qui reproduit les mecaniques de Doom et Wolfenstein 3D. Ecrit à partir de zéro. Utilise l'API Canvas.
 
 - [War](https://war.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/war))
 
-A game engine replicating WarCraft II mechanis. Written from scratch. Uses the Canvas API.
+Un moteur de jeu qui reproduit les mecaniques de WarCraft II. Ecrit à partir de zéro. Utilise l'API Canvas.
+
 
 - [ChessJS](https://chess.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/chess))
+
+Un jeu d'échecs créé en priorité pour mobiles.
 
 A mobile-first game of chess.
 
 - [Lonewolf](https://lonewolf.yvesgurcan.com/) ([repository](https://github.com/yvesgurcan/lonewolf))
 
-A utility to go along Choose Your Own Adventure books.
+Un utilitaire pour aider avec la feuille de personnage des *Livres dont vous êtes le héros*.
