@@ -33,8 +33,6 @@ Un moteur de jeu qui reproduit les mécaniques de WarCraft II. Ecrit à partir d
 
 Un jeu d'échecs créé en priorité pour mobiles.
 
-A mobile-first game of chess.
-
 - [Lonewolf](https://lonewolf.yvesgurcan.com/) ([code](https://github.com/yvesgurcan/lonewolf))
 
 Un utilitaire pour aider avec la feuille de personnage des *Livres dont vous êtes le héros*.
