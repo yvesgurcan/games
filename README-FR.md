@@ -10,7 +10,7 @@ permalink: /fr
 [![français](./assets/images/french-flag.png "Cliquez ici pour la version en français.")](./fr)
 </span>
 
-Vous trouverez ci-dessous une liste de projects liés à ma passion pour les jeux vidéos un peu plus ancien. La plupart de ces projets sont en pre-alpha. Vous pouvez y jouer depuis votre navigateur. Grâce à ces expériences variees, j'ai amassé beaucoup de connaissances sur les défis à relever quand il s'agit de construire un moteur de jeu depuis zéro. Vous souhaitez voir plus de projets de développement web ? Jetez un coup d'oeil à mon [profil GitHub](https://github.com/yvesgurcan) (en anglais).
+Vous trouverez ci-dessous une liste de projects liés à ma passion pour les jeux vidéos un peu plus anciens. La plupart de ces projets sont en pre-alpha. Vous pouvez y jouer depuis votre navigateur. Grâce à ces expériences variees, j'ai amassé beaucoup de connaissances sur les défis à relever quand il s'agit de construire un moteur de jeu depuis zéro. Vous souhaitez voir plus de projets de développement web ? Jetez un coup d'oeil à mon [profil GitHub](https://github.com/yvesgurcan) (en anglais).
 
 - [Dungeon!](https://dungeon.yvesgurcan.com/stable) ([code](https://github.com/yvesgurcan/dungeon))
 
