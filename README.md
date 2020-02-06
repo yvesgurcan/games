@@ -26,4 +26,4 @@ A mobile-first game of chess.
 
 - [Lonewolf](https://lonewolf.yvesgurcan.com/) ([repository](https://github.com/yvesgurcan/lonewolf))
 
-A utility to go along Choose Your Own Adventure books.
+A utility to keep track of your character sheet with *Choose Your Own Adventure* books.
