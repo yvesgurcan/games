@@ -18,7 +18,7 @@ Un JDR old-school écrit à partir de zéro avec React.
 
 - [JSDoom](https://doom.yvesgurcan.com) ([code](https://github.com/yvesgurcan/jsdoom))
 
-Un moteur de jeu qui reproduit les mecaniques de Doom et Wolfenstein 3D. Ecrit à partir de zéro. Utilise l'API Canvas.
+Un moteur de jeu qui reproduit les mécaniques de Doom et Wolfenstein 3D. Ecrit à partir de zéro. Utilise l'API Canvas.
 
 - [WadJS](https://wad.yvesgurcan.com) ([code](https://github.com/yvesgurcan/wadjs))
 
