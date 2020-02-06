@@ -18,6 +18,10 @@ Old-school RPG written from scratch with React.
 
 A game engine replicating Doom and Wolfenstein 3D mechanics. Written from scratch. Uses the Canvas API.
 
+- [WadJS](https://wad.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/wadjs))
+
+A utility to extract Doom game assets online. Enables the visualization of wall textures and game levels, the playback of MIDI files and sounds, and much more. Works with other Doom-based games such as Heretic, Hexen, and Freedoom.
+
 - [War](https://war.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/war))
 
 A game engine replicating WarCraft II mechanis. Written from scratch. Uses the Canvas API.
