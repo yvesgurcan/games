@@ -1,6 +1,6 @@
 ---
 title: jeux
-description: 🕹️ Projets de jeux JavaScript
+description: 🕹️ Projets de jeux JavaScript créés par Yves Gurcan
 lang: fr
 permalink: /fr
 ---
