@@ -294,6 +294,10 @@ section {
     flex-wrap: wrap;
     display: flex;
     justify-content: center;
+    
+    &:first-child {
+      max-width: 1000px;
+    }
 
     #flag {
       display: flex;
