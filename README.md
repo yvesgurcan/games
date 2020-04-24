@@ -26,7 +26,7 @@ A utility to extract Doom game assets. Enables the visualization of wall texture
 
 A game engine replicating WarCraft II mechanis. Written from scratch. Uses the Canvas API.
 
-- [ChessJS](https://chess.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/chess))
+- [ChessJS](https://chess.yvesgurcan.com) ([repository](https://github.com/yvesgurcan/chess-project))
 
 A mobile-first game of chess.
 
